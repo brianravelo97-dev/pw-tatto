@@ -2,6 +2,8 @@
 
 Sitio oficial de **Libertad Estudio · Tattoo & Bodypiercing**, construido con Next.js 16 (App Router), React 19 y Tailwind CSS 4.
 
+<p align="center"><img src="docs/preview-escritorio.png" width="68%" alt="Vista previa en escritorio"> <img src="docs/preview-movil.png" width="22%" alt="Vista previa en móvil"></p>
+
 ---
 
 ## Concepto creativo
